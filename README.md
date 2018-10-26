@@ -11,4 +11,4 @@ Here are a list of my projects
 
 [**Simple Recorder**](https://disk-drive.co.uk/simple-recorder) 
 
-Simple web based audio recorder which can be downloaded as a wav. Source: (https://github.com/sshum3/simple-recorder)
+Simple web based audio recorder which can be downloaded as a wav. Source: [github.com/sshum3/simple-recorder](https://github.com/sshum3/simple-recorder)
