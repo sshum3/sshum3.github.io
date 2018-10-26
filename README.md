@@ -1,7 +1,3 @@
----
-title: This is my title
----
-
 ## Disk-Drive.co.uk
 
 Here are a list of my projects
